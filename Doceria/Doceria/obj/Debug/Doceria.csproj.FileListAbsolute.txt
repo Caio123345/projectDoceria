@@ -1,0 +1,16 @@
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\bin\Debug\Doceria.exe.config
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\bin\Debug\Doceria.exe
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\bin\Debug\Doceria.pdb
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.csproj.AssemblyReference.cache
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.csproj.SuggestedBindingRedirects.cache
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.Properties.Resources.resources
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.csproj.GenerateResource.cache
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.csproj.CoreCompileInputs.cache
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.exe
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.pdb
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.csproj.CopyComplete
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.FormInicial.resources
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.FormValores.resources
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.FaleConosco.resources
+C:\Users\kawan.fssoares\source\repos\Doceria\Doceria\obj\Debug\Doceria.Servicos.resources
